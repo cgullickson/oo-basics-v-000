@@ -32,5 +32,5 @@ class Book
   def @genre
     genre
   end
-  
+
 end
